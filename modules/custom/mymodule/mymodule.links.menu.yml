@@ -1,0 +1,6 @@
+mympdule.admin_settings_form:
+  title: 'My Module'
+  route_name: mymodule.display_data
+  description: 'Custom Link'
+  parent: system.admin
+  weight: 99

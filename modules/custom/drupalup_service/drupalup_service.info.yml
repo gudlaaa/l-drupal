@@ -1,0 +1,4 @@
+name: Example drupal up service
+description: An example of the cusotm drupal up service
+type: module
+core: 8.x
