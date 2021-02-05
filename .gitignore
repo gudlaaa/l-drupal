@@ -65,6 +65,6 @@
 /drupal.phar
 /drupal
 /tutorials
-sites/default/files
+/sites/default/files
 
 # End of https://www.toptal.com/developers/gitignore/api/drupal8
